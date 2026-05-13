@@ -18,7 +18,10 @@ NeuroSync AI is a cloud-native predictive healthcare platform that creates behav
 - NumPy
 - Scikit-learn
 - Matplotlib
+
 ## Architecture Diagram
+
+![NeuroSync AI Architecture](screenshots/architecture.png)
 
 ## Project Structure
 ```bash
@@ -35,11 +38,12 @@ report/         -> Documentation/report
 ```bash
 pip install -r requirements.txt
 ```
+
+## Run the Project
+
 ## Author
 Sen Sabu
 Lovely Professional University
-
-## Run the Project
 
 ```bash
 python main.py
