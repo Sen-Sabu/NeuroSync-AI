@@ -1,7 +1,8 @@
-# PREP Project
+# NeuroSync AI
+Behavioral Digital Twin for Predictive Health Monitoring
 
 ## Overview
-This project was developed as part of the PRD/dissertation work under the guidance of Sangeeta Rai, Assistant Professor, Department of CSE, Lovely Professional University.
+NeuroSync AI is a cloud-native predictive healthcare platform that creates behavioral digital twins using wearable and lifestyle data to identify abnormal behavioral drift and generate explainable health-risk predictions.
 
 ## Features
 - Data preprocessing
@@ -17,6 +18,7 @@ This project was developed as part of the PRD/dissertation work under the guidan
 - NumPy
 - Scikit-learn
 - Matplotlib
+## Architecture Diagram
 
 ## Project Structure
 ```bash
@@ -33,6 +35,9 @@ report/         -> Documentation/report
 ```bash
 pip install -r requirements.txt
 ```
+## Author
+Sen Sabu
+Lovely Professional University
 
 ## Run the Project
 
