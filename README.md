@@ -41,10 +41,6 @@ pip install -r requirements.txt
 
 ## Run the Project
 
-## Author
-Sen Sabu
-Lovely Professional University
-
 ```bash
 python main.py
 ```
